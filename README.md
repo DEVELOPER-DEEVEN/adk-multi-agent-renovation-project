@@ -387,6 +387,12 @@ pip install -r requirements.txt
 
 ---
 
+## Author
+
+This project was created and is maintained by **Deeven Seru**.
+
+---
+
 ## License
 
 See [LICENSE](LICENSE) for details.
